@@ -10,7 +10,7 @@ export default function Footer() {
             <a href="https://github.com/KimW1998/my-weather-app">
               Open-source code
             </a>{" "}
-            by Kim Wauben
+            react weather app by Kim Wauben
           </p>
         </footer>
       </div>
