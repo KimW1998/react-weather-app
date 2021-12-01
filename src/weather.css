@@ -1,8 +1,7 @@
 body {
     margin: 20px;
     padding: 0 auto;
-    background-color: rgb(0, 0, 0);
-    background-image: url(https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2066&q=80);
+    background-color: white;
     background-size: 1500px;
     background-position: center;
   }
