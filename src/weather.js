@@ -12,15 +12,15 @@ export default function Weather() {
             </div>
             <div className="col-3">
               <p>
-                <a href="#" id="celsius" className="active">
+                <button id="celsius" className="active">
                   {" "}
                   °C
-                </a>{" "}
+                </button>{" "}
                 |{" "}
-                <a href="#" id="fahrenheit">
+                <button  id="fahrenheit">
                   {" "}
                   °F
-                </a>
+                </button>
               </p>
             </div>
           </div>
