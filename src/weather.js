@@ -56,7 +56,7 @@ export default function Weather() {
             <div className="col-6">
               <img className="sun" id="icon" src="" alt="Clear" />
             </div>
-            <div className="col-6" className="feels-like" />
+            <div className="col-6 feels-like">
             <ul>
               <li>
                 ☺︎ Feels like: <span id="feels-like"></span>°C
@@ -74,6 +74,7 @@ export default function Weather() {
                 ☁︎ Wind: <span id="wind"></span> km/h
               </li>
             </ul>
+            </div>
           </div>
         </div>
         <div className="row">
